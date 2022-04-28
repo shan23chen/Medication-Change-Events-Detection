@@ -1,6 +1,8 @@
 # Medication-Change-Events-Detection
 Shan and Sheng's n2c2 2022 track 1 sub 2 &amp; 3 task's attempts.
 
+Overleaf ACL format paper version: https://www.overleaf.com/1821713696cpvknwsvqrtv
+
 Track1 subTask 2 and 3 are two realted subtask:
 
 subTask2:
