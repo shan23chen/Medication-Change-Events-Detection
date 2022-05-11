@@ -7,11 +7,11 @@ Note: the paper only focus on the submitted system.
 
 Track1 subTask 2 and 3 are two realted subtask:
 
-subTask2:
-You will be provided with clinical notes and ann files containing NER annotations (i.e. medications). You can submit solutions for Event or Event+Context tasks.
+  subTask2:
+  You will be provided with clinical notes and ann files containing NER annotations (i.e. medications). You can submit solutions for Event or Event+Context tasks.
 
-subTask3: 
-You will be provided with clinical notes and ann files containing NER & Event annotations. You can submit solutions for the Context task.
+  subTask3: 
+  You will be provided with clinical notes and ann files containing NER & Event annotations. You can submit solutions for the Context task.
 
 Our experiements consist four major parts:
 
