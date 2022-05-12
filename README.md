@@ -1,7 +1,7 @@
 # Medication-Change-Events-Detection
 Shan and Sheng's n2c2 2022 track 1 sub 2 &amp; 3 task's attempts.
 
-**Sorry we cannot open source our submission version of code yet since the share_task is not done**
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `**Sorry we cannot open source our submission version of code yet since the share_task is not done**`
 
 Overleaf ACL format paper version: will be revealed after test_result is out
 
